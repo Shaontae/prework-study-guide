@@ -2,7 +2,7 @@
 
 ## Description
 
-This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
+This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript. I also added in gardient colors to my cards and changed the header and footer color.
 
 
 
@@ -13,9 +13,7 @@ n/a
 
 ## Usage
 
-For ## Usage, write a short paragraph about how this Prework Study Guide can be used. For example, you can write about how each section contains notes about a certain topic, like HTML, CSS, JavaScript, Git. And if we open the DevTools console, we can see the JavaScript running. It will list the topics we learned from prework and choose one topic for us to study first. For now, we don't need to add an image, so you can delete that part.
-
-To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+This prework study guide can be used for myself and others as well who need a quick reference to certain topics inclduing html, css, javascript, arrays, and more! I made it colorful as well so the information can stick in your head. I suggest you read through the topics presented on this site through the chrome dev tools console. You access by using command+option+i for mac. Right click anywhere oon page and you can see inspect button for windows. Theere youll see a list of topics that we covered.
 
 ## Credits
 
