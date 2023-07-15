@@ -1,8 +1,8 @@
-var topics = ['HTML', 'CSS', 'Git', 'JavaScript', 'Array', 'loops'];
+var topics = ['HTML', 'CSS', 'Git', 'JavaScript'];
 var randomTopic = topics[Math.floor(Math.random() * topics.length)];
 
 function listTopics() {
- for (var x = 0; x = topics.length; x++) {
+ for (var x = 0; x < topics.length; x++) {
    console.log(topics[x]);
  }
 }
@@ -17,12 +17,6 @@ function selectTopic() {
  } else if (randomTopic === 'JavaScript') {
    console.log("Let's study JavaScript!");
  } 
- else if (randomTopic === 'Array') {
-  console.log("Let's study Array!");
-}
-  else if (randomTopic === 'loops') {
-  console.log("Let's study loops!");
-}
   else {
    console.log('Please try again!');
  }
